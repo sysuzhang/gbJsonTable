@@ -1,0 +1,29 @@
+{
+  "name": "gitbook-plugin-gbjsontable",
+  "version": "0.1.0",
+  "description": "This is table creating GitBook plugin",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sysuzhang/gbJsonTable.git"
+  },
+  "keywords": [
+    "gitbook",
+    "json",
+    "table"
+  ],
+  "author": "sysuzhang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sysuzhang/gbJsonTable/issues"
+  },
+  "homepage": "https://github.com/sysuzhang/gbJsonTable#readme"
+}

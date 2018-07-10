@@ -1,0 +1,11 @@
+{
+  "title": "json table",
+  "description": "测试json表格",
+  "plugins": [
+    "gbjsontable"
+  ],
+  "pluginsConfig": {
+    "gbjsontable": {
+    }
+  }
+}
